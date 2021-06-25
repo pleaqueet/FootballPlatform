@@ -19,8 +19,5 @@
         android:name="com.example.footballplatform.fragments.GameFragment"
         android:label="fragment_game"
         tools:layout="@layout/fragment_game" >
-        <action
-            android:id="@+id/action_gameFragment_to_menuFragment"
-            app:destination="@id/menuFragment" />
     </fragment>
 </navigation>

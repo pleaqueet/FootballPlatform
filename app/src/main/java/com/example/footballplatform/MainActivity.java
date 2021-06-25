@@ -22,7 +22,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
     }
 
-    @Override
-    public void onBackPressed() {
-    }
 }
